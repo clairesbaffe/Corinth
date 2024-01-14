@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1652384841 source:c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"declarations.h"
+	"initialisation.h"
+	"manches.h"
+	"parametres.h"
+	"plateau.h"
+	"affichage.h"
+	"quartier.h"
+	"intendant.h"
+	"batiments.h"
+
+1652384694 source:c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\batiments.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"declarations.h"
+	"initialisation.h"
+	"manches.h"
+	"parametres.h"
+	"plateau.h"
+	"affichage.h"
+	"quartier.h"
+	"intendant.h"
+	"batiments.h"
+
+1652383164 c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\declarations.h
+
+1652384694 c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\initialisation.h
+
+1652384694 c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\manches.h
+
+1652384694 c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\parametres.h
+
+1652384694 c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\plateau.h
+
+1652383164 c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\affichage.h
+
+1652386864 c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\quartier.h
+
+1652384778 c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\intendant.h
+
+1652383164 c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\batiments.h
+
+1652384694 source:c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"declarations.h"
+	"initialisation.h"
+	"manches.h"
+	"parametres.h"
+	"plateau.h"
+	"affichage.h"
+	"quartier.h"
+	"intendant.h"
+	"batiments.h"
+
+1652386789 source:c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\intendant.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"declarations.h"
+	"initialisation.h"
+	"manches.h"
+	"parametres.h"
+	"plateau.h"
+	"affichage.h"
+	"quartier.h"
+	"intendant.h"
+	"batiments.h"
+
+1652384694 source:c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\manches.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"declarations.h"
+	"initialisation.h"
+	"manches.h"
+	"parametres.h"
+	"plateau.h"
+	"affichage.h"
+	"quartier.h"
+	"intendant.h"
+	"batiments.h"
+
+1652393598 source:c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\parametres.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"declarations.h"
+	"initialisation.h"
+	"manches.h"
+	"parametres.h"
+	"plateau.h"
+	"affichage.h"
+	"quartier.h"
+	"intendant.h"
+	"batiments.h"
+
+1652386050 source:c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"declarations.h"
+	"initialisation.h"
+	"manches.h"
+	"parametres.h"
+	"plateau.h"
+	"affichage.h"
+	"quartier.h"
+	"intendant.h"
+	"batiments.h"
+
+1652392494 source:c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\quartier.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"declarations.h"
+	"initialisation.h"
+	"manches.h"
+	"parametres.h"
+	"plateau.h"
+	"affichage.h"
+	"quartier.h"
+	"intendant.h"
+	"batiments.h"
+
+1652393370 source:c:\users\__\onedrive\documents\estaca\semestre ii\algo\projet corinth\codeblocks\projet corinth souami sbaffe\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"declarations.h"
+	"initialisation.h"
+	"manches.h"
+	"parametres.h"
+	"plateau.h"
+	"affichage.h"
+	"quartier.h"
+	"intendant.h"
+	"batiments.h"
+
